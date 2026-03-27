@@ -7,3 +7,7 @@ env/
 .env.*
 !.env.example
 .DS_Store
+output/
+data/raw/
+data/processed/
+src/strategies/private/
